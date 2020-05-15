@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Generators</title>
+    <script type="text/javascript" src="Scripts/jquery-1.4.1.min.js"></script>
+    <script type="text/javascript" src="Scripts/rx.js"></script>
+    <script type="text/javascript">
+        $(function () {
+            var source = Rx.Observable.Create(function (observer) {
+                for (var i = 0; i < 10; i++) {
+                    observer.OnNext(i);
+                }
+                observer.
+            });
+
+            var subscription = source.Subscribe(
+                function (next) {
+                    $('<p/>').html('OnNext: ' + next).appendTo('#results');
+                },
+                function (ex) {
+                    $('<p/>').html('OnError: ' + ex).appendTo('#results');
+                },
+                function () {
+                    $('<p/>').html('OnCompleted').appendTo('#results');
+                });
+        });
+    </script>
+</head>
+<body>
+    <div id="results"></div>
+</body>
+</html>

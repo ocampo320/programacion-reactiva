@@ -1,0 +1,10 @@
+server:
+  port: 8089
+spring:
+  application:
+    name: prueba_reactor
+database:
+  uri: mongodb://localhost:27017
+  database: prueba_reactor
+
+

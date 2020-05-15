@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="90587fc8-d0f1-4d89-97cd-38b9ef871837" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bwgWzox5OT1HU792Ar6ikcD0hr" />
+  <component name="ProjectViewState">
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../demowebflux" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\deibi.ocampo\Desktop\ESCRITORIO\reactivo\ProgramacionReactiva\src\main\java" />
+      <recent name="C:\Users\deibi.ocampo\Desktop\ESCRITORIO\reactivo\ProgramacionReactiva\src\main" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Combinar">
+    <configuration name="Asincrono" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Asincrono.Asincrono" />
+      <module name="ProgramacionReactiva" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Asincrono.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Combinar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Combinar.Combinar" />
+      <module name="ProgramacionReactiva" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Combinar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Principal (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Transformacion.Principal" />
+      <module name="ProgramacionReactiva" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Transformacion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Principal (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Mono.Principal" />
+      <module name="ProgramacionReactiva" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Mono.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Principal (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Flux.Principal" />
+      <module name="ProgramacionReactiva" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Flux.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Combinar" />
+        <item itemvalue="Application.Principal (3)" />
+        <item itemvalue="Application.Principal (2)" />
+        <item itemvalue="Application.Asincrono" />
+        <item itemvalue="Application.Principal (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="90587fc8-d0f1-4d89-97cd-38b9ef871837" name="Default Changelist" comment="" />
+      <created>1589548605479</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589548605479</updated>
+      <workItem from="1589548611776" duration="5747000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1818" y="155" key="#Project_Structure" timestamp="1589549256146">
+      <screen x="1366" y="60" width="1920" height="1040" />
+    </state>
+    <state x="1818" y="155" key="#Project_Structure/0.0.1366.728/1366.60.1920.1040@1366.60.1920.1040" timestamp="1589549256146" />
+    <state x="2087" y="221" key="#com.intellij.ide.util.MemberChooser" timestamp="1589549702112">
+      <screen x="1366" y="60" width="1920" height="1040" />
+    </state>
+    <state x="2087" y="221" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/1366.60.1920.1040@1366.60.1920.1040" timestamp="1589549702112" />
+    <state x="2056" y="277" key="FileChooserDialogImpl" timestamp="1589553708777">
+      <screen x="1366" y="60" width="1920" height="1040" />
+    </state>
+    <state x="2056" y="277" key="FileChooserDialogImpl/0.0.1366.728/1366.60.1920.1040@1366.60.1920.1040" timestamp="1589553708777" />
+    <state width="1865" height="267" key="GridCell.Tab.0.bottom" timestamp="1589553258085">
+      <screen x="1366" y="60" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="267" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.60.1920.1040@1366.60.1920.1040" timestamp="1589553258085" />
+    <state width="1865" height="267" key="GridCell.Tab.0.center" timestamp="1589553258084">
+      <screen x="1366" y="60" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="267" key="GridCell.Tab.0.center/0.0.1366.728/1366.60.1920.1040@1366.60.1920.1040" timestamp="1589553258084" />
+    <state width="1865" height="267" key="GridCell.Tab.0.left" timestamp="1589553258084">
+      <screen x="1366" y="60" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="267" key="GridCell.Tab.0.left/0.0.1366.728/1366.60.1920.1040@1366.60.1920.1040" timestamp="1589553258084" />
+    <state width="1865" height="267" key="GridCell.Tab.0.right" timestamp="1589553258085">
+      <screen x="1366" y="60" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="267" key="GridCell.Tab.0.right/0.0.1366.728/1366.60.1920.1040@1366.60.1920.1040" timestamp="1589553258085" />
+  </component>
+</project>
